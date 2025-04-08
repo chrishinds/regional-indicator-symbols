@@ -16,5 +16,5 @@ flag, code, region
 Access from Python:
 ```python
 import pandas as pd
-df = pd.read_csv('https://raw.githubusercontent.com/chrishinds/tactile/refs/heads/main/regional-indicator-symbols.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/chrishinds/regional-indicator-symbols/refs/heads/main/regional-indicator-symbols.csv')
 ```
